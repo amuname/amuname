@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @amuname
-- ✨ Currently use JS
-- 👀 I’m interested in JS (Vue, React, Node), Ruby (Ror), C#...
+- ✨ Currently use JavaScript, TypeScript, SQL.
+- Sometimes I practice Java and Python
+- 👀 I’m interested in JS (Vue, React, Nest), JAVA (Spring)
 - 🌱 I’m currently learning Web3
 
 <!---
